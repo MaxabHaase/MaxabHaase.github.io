@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Max A. B. Haase
+    - name: Position
+      value: Postdoctoral Researcher
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: New York University School of Medicine
+      year: 2017 - 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science 
+      institution: University of Wisconsin - Madison
+      year: 2013 - 2017
       description:
         - Description 1.
         - Description 2.
